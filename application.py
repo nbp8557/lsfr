@@ -104,7 +104,7 @@ def generate(bitArray,numSteps):
     Just some tests for your review
 '''
 def test():
-    print("Tests are beginning")
+    print("Tests are beginning\n")
 
     bitTest1 = int('011111111111',2)
 
